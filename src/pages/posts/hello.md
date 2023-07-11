@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: 'Hellodd'
+title: 'assays'
 pubDate: 2035-07-01
 description: '欢迎来到我博客'
 author: 'Apple Newsroom'
@@ -11,6 +11,6 @@ cover:
 tags: ["hello"]
 theme: 'dark'
 featured: true
----
+---　
 
 # hello
