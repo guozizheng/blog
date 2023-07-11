@@ -14,5 +14,5 @@ featured: True
 ---　
 
 # 天涯论坛大神
-![Alt text](图片链接 "https://pic2.zhimg.com/80/v2-04c0435706ff2c8796b2e8944dd12281_1440w.webp")
+![双拼图解]("https://pic2.zhimg.com/80/v2-04c0435706ff2c8796b2e8944dd12281_1440w.webp")
 
