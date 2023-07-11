@@ -16,4 +16,4 @@ featured: True
 # 天涯论坛大神
 
 
-![双拼图解](https://imgse.com/i/pCfugL4.jpg)
+![双拼图解](https://s1.ax1x.com/2023/07/12/pCfugL4.jpg)
