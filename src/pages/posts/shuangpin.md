@@ -14,6 +14,6 @@ featured: True
 ---　
 
 # 天涯论坛大神
-![双拼图解]("https://pic2.zhimg.com/80/v2-04c0435706ff2c8796b2e8944dd12281_1440w.webp")
+![双拼图解]("https://pic2.zhimg.com/80/v2-04c0435706ff2c8796b2e8944dd12281_1440w.jpg")
 
 ![CSDN图标](http://imgtech.gmw.cn/attachement/jpg/site2/20111223/f04da22d7ba7105e1d7507.jpg "这是CSDN的图标")
