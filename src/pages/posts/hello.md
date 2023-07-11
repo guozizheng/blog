@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: 'dasdasdasd'
+title: '我的第一篇博客'
 pubDate: 2035-07-01
 description: '欢迎来到我博客'
 author: 'Apple Newsroom'
