@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: 'gjhgjgjgjgjgjg99900'
+title: 'dasdasdasd'
 pubDate: 2035-07-01
 description: '欢迎来到我博客'
 author: 'Apple Newsroom'
@@ -14,4 +14,4 @@ featured: true
 ---　
 
 # hello
-hello888
+hello888asdasaasdasdas
