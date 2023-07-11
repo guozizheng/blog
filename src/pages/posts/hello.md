@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: 'assays'
+title: 'gjhgjgjgjgjgjg99900'
 pubDate: 2035-07-01
 description: '欢迎来到我博客'
 author: 'Apple Newsroom'
