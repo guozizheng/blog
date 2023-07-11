@@ -16,4 +16,4 @@ featured: True
 # 天涯论坛大神
 ![双拼图解](https://pic.lookcos.cn/i/2023/02/27/qhv4dn.png)
 
-![CSDN图标](http://imgtech.gmw.cn/attachement/jpg/site2/20111223/f04da22d7ba7105e1d7507.jpg "这是CSDN的图标")
+![双拼图解](http://imgtech.gmw.cn/attachement/jpg/site2/20111223/f04da22d7ba7105e1d7507.jpg)
