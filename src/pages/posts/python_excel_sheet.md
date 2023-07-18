@@ -35,6 +35,6 @@ with pd.ExcelWriter('你的文件路径.xlsx', engine='openpyxl', mode='a') as w
 
 writer.save()
 ```
-# ddd
+# 以上的代码
 在这个例子中，只有 'sheet2' 的内容被修改，其它工作表的内容保持不变。请确保将 '你的文件路径.xlsx' 和 'sheet2' 替换为你实际的文件路径和工作表名称。
 此外，上述代码将全部的 "old_value" 替换为 "new_value"。如果你只想替换特定列的值，你可以使用 df['column_name'] = df['column_name'].replace('old_value', 'new_value')，将 'column_name' 替换为你的列名。
