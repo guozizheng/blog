@@ -1,4 +1,4 @@
-export const SITE_TITLE = `Guozizheng Blog`;
+export const SITE_TITLE = `GuoZZ's Blog`;
 export const SITE_DESCRIPTION = '这是郭子正的Blog';
 export const SITE_EMAIL = '2575424851@qq.com'
 export const SITE_NAME = 'www.guozizheng.cloud';
