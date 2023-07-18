@@ -18,7 +18,9 @@ featured: True
 
 ![双拼图解](https://s1.ax1x.com/2023/07/12/pCfugL4.jpg)
 ```javascript
+let intervalId = setInterval(function(){ 
+    location.reload(); 
+}, 10000);
 
-console.log("Hello")
-
-``` 作者：cikaros https://www.bilibili.com/read/cv21489146 出处：bilibili
+// 当你想要停止刷新时，运行以下代码：
+clearInterval(intervalId);
