@@ -13,10 +13,8 @@ theme: 'dark'
 featured: True
 ---　
 
-# 双拼技巧
-在黑莓手机以及键盘中使用双拼可以精准打出汉字，并将提升100%打字效率
-
-![双拼图解](https://s1.ax1x.com/2023/07/12/pCfugL4.jpg)
+# JAVASCRIPT 快速在控制台定时刷新和执行网页任务 简单快捷的命令
+这段代码可以在浏览器控制台定时循环的执行一段代码和动作
 ```javascript
 let intervalId = setInterval(function(){ 
     location.reload(); 
@@ -24,3 +22,4 @@ let intervalId = setInterval(function(){
 
 // 当你想要停止刷新时，运行以下代码：
 clearInterval(intervalId);
+```
