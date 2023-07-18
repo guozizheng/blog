@@ -1,14 +1,14 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: '双拼技巧与使用方法'
-pubDate: 2035-07-12
-description: '资源收藏'
+title: 'JAVASCRIPT 快速执行'
+pubDate: 2035-07-18
+description: '代码'
 author: 'Apple Newsroom'
 cover:
     url: 'https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Alibaug-canoe_Full-Bleed-Image.jpg.large_2x.jpg'
     square: 'https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Alibaug-canoe_Full-Bleed-Image.jpg.large_2x.jpg'
     alt: 'cover'
-tags: ["双拼","输入法","键盘"]
+tags: ["python","JAVASCRIPT","记录"]
 theme: 'dark'
 featured: True
 ---　
