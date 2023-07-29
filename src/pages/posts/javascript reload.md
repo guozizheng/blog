@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: 'JAVASCRIPT 快速在控制台定时刷新和执行网页任务 简单快捷的命令'
+title: 'JAVASCRIPT （快速在控制台定时刷新和执行网页任务 简单快捷的命令）'
 pubDate: 2035-07-18
 description: '代码'
 author: 'Apple Newsroom'
