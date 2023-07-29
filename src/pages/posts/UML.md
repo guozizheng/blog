@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: 'UML统一建模语言'
+title: 'UML 统一建模语言'
 pubDate: 2035-07-29
 description: '软件设计师'
 author: '软件设计师考证笔记'
