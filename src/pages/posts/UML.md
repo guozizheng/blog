@@ -8,7 +8,7 @@ cover:
     url: 'https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Alibaug-canoe_Full-Bleed-Image.jpg.large_2x.jpg'
     square: 'https://www.apple.com.cn/newsroom/images/values/environment/Apple-Earth-Day-India-mangrove-Alibaug-canoe_Full-Bleed-Image.jpg.large_2x.jpg'
     alt: 'cover'
-tags: ["UNL","统一建模语言","笔记"]
+tags: ["UML","统一建模语言","软件设计师笔记"]
 theme: 'dark'
 featured: True
 ---　
