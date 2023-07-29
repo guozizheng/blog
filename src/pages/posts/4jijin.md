@@ -1,6 +1,6 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: '基金定投法'
+title: '基金定投法（V1.0）'
 pubDate: 2035-07-10
 description: '基金定投法'
 author: 'Apple Newsroom'
