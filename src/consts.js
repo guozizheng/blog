@@ -1,4 +1,4 @@
-export const SITE_TITLE = 'guozizheng Air Blog';
+export const SITE_TITLE = 'Guozz Air Blog';
 export const SITE_DESCRIPTION = 'Site Description';
 export const SITE_EMAIL = 'no.sql@qq.com'
 export const SITE_NAME = 'astro.yufengbiji.com';
