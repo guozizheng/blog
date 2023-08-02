@@ -43,3 +43,11 @@ writer.save()
 
 # 在python中，如何讲excel的一个sheet2页中的内容进行替换，而不改变其他sheet页内容
 要在Python中处理Excel文件，我们通常使用 pandas 和 openpyxl 这两个库。下面是一个如何在特定工作表（sheet2）中替换内容的例子：
+
+# Python中移动文件夹命令
+
+
+# 简单重新重命名Pandas 的标题
+
+df.rename(columns={'A': 'X', 'B': 'Y'}, inplace=True)
+print(df)
